@@ -1,0 +1,110 @@
+  
+
+    /* Estilo para a seção do carousel */
+    .carousel-caption {
+      background-color: rgba(0, 0, 0, 0.6);
+      padding: 10px;
+          }
+
+    .carousel-caption h3 {
+      color: #fff;
+      font-size: 24px;
+
+    }
+
+    /* Estilo para a seção Quem É a Luiza */
+    #quem-é-a-Luiza {
+      background-color: #91c3f8 ;
+    }
+ 
+    /* Estilo para a seção Nossos Produtos */
+    #nossos-produtos {
+      background-color: #f3a9a9;
+      padding-top: 50px;
+      padding-bottom: 50px;
+    }
+
+    .card {
+      border: none;
+        }
+
+    .card-title {
+      font-size: 20px;
+      font-weight: bold;
+      color: #007bff;
+    }
+
+    .card-text {
+      color: #555;
+    }
+
+    /* Estilo para o rodapé */
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding:20px 0;
+    }
+
+    footer p {
+      margin-bottom: 2px;
+    }
+
+    footer a {
+      color: #fff;
+    }
+
+    footer a:hover {
+      color: #ccc;
+    }
+
+    /* Estilos para os botões */
+   
+
+
+  .card-custom {
+    height: 80%; 
+  }
+
+
+/* src/App.css */
+
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.product {
+  width: 250px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.cart {
+  width: 250px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.cart-item {
+  margin-bottom: 5px;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
