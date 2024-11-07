@@ -22,5 +22,11 @@ O objetivo deste projeto é desenvolver uma página de apresentação para uma l
 ## Como Executar
 Para visualizar o projeto, faça o download dos arquivos e abra o arquivo `index.html` no seu navegador preferido.
 
+Clique na Imagem para assistir um védeo de crochê sendo executado pela profissional REAL.
+
+[![Assista ao vídeo no Instagram](https://github.com/BiaS3/Meu-Site-de-Croche/blob/main/Captura%20de%20tela%202024-11-07%20192455.png)](https://www.instagram.com/p/Cs--IzaIxEM/)
+
+
+
 ---
 
